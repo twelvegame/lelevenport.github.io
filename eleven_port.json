@@ -37,7 +37,7 @@
     },
     "xiaofeng482": {
         "url": "https://www.90jili.com/index?affiliateCode=phj005",
-        "isToPage": false,
+        "isToPage": true,
         "isAlert": false,
         "adjustParams": [
             {
@@ -142,7 +142,7 @@
     },
     "xiaofeng485": {
         "url": "https://www.jiliasia.com/?pid=50jilivip",
-        "isToPage": false,
+        "isToPage": true,
         "isAlert": true,
         "countryCodes": ["TR","PH","BR"],
         "adjustParams": [
